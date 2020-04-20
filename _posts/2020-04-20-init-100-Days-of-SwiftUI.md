@@ -1,6 +1,6 @@
 ---
 layout: post
-title: init 100 Days of SwiftUI 
+title: [0 of 100] init 100 Days of SwiftUI 
 ---
 
 hello.
