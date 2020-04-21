@@ -9,17 +9,17 @@ first lesson passed.
 i have see a lot of simmilarities between swift and c# syntax. that is good because it will be easier to code.
 in my opinion c# saves little bit more keystrokes on variable with type defined:
 
-```c#
+{% highlight c# %}
 // c#
 String superString = "super string";
-```
+{% endhighlight %}
 
 vs
 
-```swift
+{% highlight swift %}
 // swift
 var superString : String = "super string"
-```
+{% endhighlight %}
 
 i really like the 'spacer' when you declare the long, integer values:
 
