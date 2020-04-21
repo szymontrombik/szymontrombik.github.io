@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 001 of 100, variables, simple data types, and string interpolation
+tags: [code, swift, learn, 100days, challenge]
 ---
 
 i am glad that i still stick to my plan :D
@@ -9,7 +10,7 @@ first lesson passed.
 i have see a lot of simmilarities between swift and c# syntax. that is good because it will be easier to code.
 in my opinion c# saves little bit more keystrokes on variable with type defined:
 
-{% highlight c# %}
+{% highlight csharp %}
 // c#
 String superString = "super string";
 {% endhighlight %}
