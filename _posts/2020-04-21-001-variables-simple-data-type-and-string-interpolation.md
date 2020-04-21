@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 001 of 100, variables, simple data types, and string interpolation
-tags: [code, swift, learn, 100days, challenge]
 ---
 
 i am glad that i still stick to my plan :D
