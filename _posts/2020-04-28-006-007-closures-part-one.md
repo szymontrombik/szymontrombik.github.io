@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 006 of 100, closures part one
+title: 006, 007 of 100, closures part one
 ---
 
 had to deal with some other projects, but i am back
